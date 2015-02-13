@@ -1,0 +1,7 @@
+bin: class files for the project
+src: java files for the project + parallel java library required to run the project
+Class Diagram.jpg: Class diagram for the project
+Main Simulation Result.html: Data Captured from running the simulation mentioned in the report
+nodes plot.png: Plot of the simulation with nodes varying
+video plot.png: Plot of Simulation with video length varying
+Output.html: Output of the latest run of the simulation is stored as a htm file here
